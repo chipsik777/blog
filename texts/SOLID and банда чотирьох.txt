@@ -1,0 +1,31 @@
+Bozhena Melnyk
+SOLID and "банда чотирьох"
+
+SOLID and "банда чотирьох" (Gang of Four) are two distinct concepts in software development,
+ often mentioned together due to their importance in object-oriented design and programming.
+
+"Банда чотирьох" (Gang of Four or GoF) refers to the four authors - Erich Gamma, Richard Helm, 
+Ralph Johnson, and John Vlissides - who wrote the influential book "Design Patterns: Elements of 
+Reusable Object-Oriented Software" in 1994[1][4]. This book introduced 23 design patterns that address
+ common problems in object-oriented software design[1].
+
+SOLID, on the other hand, is an acronym representing five principles of object-oriented programming and design:
+
+1. Single Responsibility Principle
+2. Open-Closed Principle
+3. Liskov Substitution Principle
+4. Interface Segregation Principle
+5. Dependency Inversion Principle
+
+These principles aim to make software designs more understandable, flexible, and maintainable[3][4]. While not directly related to the Gang of Four patterns, SOLID principles are often used in conjunction with design patterns to create high-quality, structured code[3][4].
+
+Citations:
+[1] https://bool.dev/blog/detail/gof-design-patterns
+[2] https://uk.wikipedia.org/wiki/Gang_of_Four
+[3] https://itvdn.com/ua/blog/article/what-are-design-patterns-in-programming
+[4] https://foxminded.ua/paterny-proektuvannia/
+[5] https://krypton.com.ua/rozdil-1-osnovy-paterniv-proektuvannya/
+
+bool.dev (https://bool.dev/blog/detail/gof-design-patterns)
+Шаблоны проектирования "банды четырёх (GoF)"
+Статья о Шаблонах (или паттернах) проектирования. Паттерны описывают типичные способы решения часто встречающихся проблем при проектировании программ.
